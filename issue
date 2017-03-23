@@ -1,0 +1,7 @@
+Uncaught TypeError: Cannot read property 'on' of undefined
+    at HTMLButtonElement.<anonymous> (script.js:102)
+    at HTMLButtonElement.dispatch (jquery.js:4435)
+    at HTMLButtonElement.r.handle (jquery.js:4121)
+Chat Conversation End
+
+When click on call i get this arror on both side...
